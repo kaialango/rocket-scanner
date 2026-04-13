@@ -3,3 +3,9 @@ scanner_data/
 __pycache__/ 
 *.pyc 
 .DS_Store 
+*.csv 
+data/ 
+logs/ 
+ignition_*.csv 
+voodoo_*.csv 
+rocket_results_*.csv 
