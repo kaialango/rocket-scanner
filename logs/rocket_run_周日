@@ -1,0 +1,63 @@
+========================================  22604.log
+开始时间: 周日 2026/04/12 22:10:45.37  22604.log
+========================================  22604.log
+Traceback (most recent call last):
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 538, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 441, in main
+    print("\n" + "\U0001f680" * 35)
+    ~~~~~^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 2: illegal multibyte sequence
+========================================  22604.log
+结束时间: 周日 2026/04/12 22:10:48.46  22604.log
+========================================  22604.log
+  22604.log
+========================================  22604.log
+开始时间: 周日 2026/04/12 22:16:32.34  22604.log
+========================================  22604.log
+Traceback (most recent call last):
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 538, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 441, in main
+    print("\n" + "\U0001f680" * 35)
+    ~~~~~^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 2: illegal multibyte sequence
+========================================  22604.log
+结束时间: 周日 2026/04/12 22:16:35.28  22604.log
+========================================  22604.log
+  22604.log
+========================================  22604.log
+开始时间: 周日 2026/04/12 22:17:47.82  22604.log
+========================================  22604.log
+Traceback (most recent call last):
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 538, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 441, in main
+    print("\n" + "\U0001f680" * 35)
+    ~~~~~^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 2: illegal multibyte sequence
+========================================  22604.log
+结束时间: 周日 2026/04/12 22:17:50.38  22604.log
+========================================  22604.log
+  22604.log
+========================================  22604.log
+开始时间: 周日 2026/04/12 22:17:59.06  22604.log
+========================================  22604.log
+^C========================================  22604.log
+开始时间: 周日 2026/04/12 22:20:02.19  22604.log
+========================================  22604.log
+Traceback (most recent call last):
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 536, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 441, in main
+    print("\n" + "\U0001f680" * 35)
+    ~~~~~^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 2: illegal multibyte sequence
+========================================  22604.log
+结束时间: 周日 2026/04/12 22:20:05.55  22604.log
+========================================  22604.log
+  22604.log

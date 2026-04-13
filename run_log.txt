@@ -1,0 +1,9 @@
+è¿è¡Œæ—¶é—´: 2026/04/12 ÖÜÈÕ 22:28:12.66 
+Traceback (most recent call last):
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 536, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\kaihu\LPPFS\rocket_scanner\openai_launchpad.py", line 441, in main
+    print("\n" + "\U0001f680" * 35)
+    ~~~~~^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 2: illegal multibyte sequence
